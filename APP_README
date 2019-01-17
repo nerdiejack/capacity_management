@@ -1,7 +1,9 @@
 DT    = Datetime
 VPH   = Vistis per Hour
 TPH   = Transactions per Hour
-TPH_2 = Transactions per Hour
 CPU   = CPU_Usage in %
 MEM   = MEM_Usage in %
 IO    = I/O in %
+
+Number of Instances = 8760
+Number of Features  = 6
